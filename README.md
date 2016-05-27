@@ -23,5 +23,3 @@
     + replace inside the jade file the path to the JS and CSS files from [Bootstrap Twitter]:  `../..` with the parameter `#{pathToAssets}`
     + change the link to the custom made CSS made for each template stored under the `bootstrap-3.0.0/examples/` directory :  `#{pathToSelectedTemplateWithinBootstrap}`
 
-## Examples, how to open a bootstrap page
-
