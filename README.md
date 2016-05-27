@@ -1,4 +1,4 @@
-# Template create using - bootstrap3-jade-node-express-grunt
+## Template was created using - bootstrap3-jade-node-express-grunt
 
 ## Install dependencies
 
